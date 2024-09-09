@@ -127,12 +127,10 @@ body {
 	padding: .5em;
 }
 
-.carousel-indicators .gallery-button {
-	background-color: rgba (0,0,0,0.7) !important;
-}
 
-.carousel-indicators .active {
-	background-color: rgba (0,0,0,1) !important;
+
+.carousel-indicators [data-bs-target] {
+	background-color: black !important;
 }
 
 .mg-prev, .mg-next {
