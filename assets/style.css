@@ -127,10 +127,8 @@ body {
 	padding: .5em;
 }
 
-
-
 .carousel-indicators [data-bs-target] {
-	background-color: yellow !important;
+	background-color: red !important;
 }
 
 .mg-prev, .mg-next {
