@@ -126,6 +126,15 @@ body {
 	object-fit: cover;
 	padding: .5em;
 }
+
+.carousel-indicators .gallery-button {
+	background-color: rgba (0,0,0,0.7);
+}
+
+.carousel-indicators .active {
+	background-color: rgba (0,0,0,1);
+}
+
 .mg-prev, .mg-next {
 	width: 30px;
 	height: 30px;
