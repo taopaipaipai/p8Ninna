@@ -130,7 +130,7 @@ body {
 
 
 .carousel-indicators [data-bs-target] {
-	background-color: black !important;
+	background-color: yellow !important;
 }
 
 .mg-prev, .mg-next {
